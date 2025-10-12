@@ -2,9 +2,9 @@
 
 ## Overview
 
-Welcome to our Personal Finance Manager project repository! This project aims to develop a user-friendly mobile application that empowers individuals to efficiently track their expenses and manage their budgets effectively. The Personal Finance Manager provides a comprehensive financial management solution by integrating features such as expense categorization, budget goal setting, and visual reporting.
+Welcome to my Personal Finance Manager project repository! This project aims to develop a user-friendly mobile application that empowers individuals to efficiently track their expenses and manage their budgets effectively. The Personal Finance Manager provides a comprehensive financial management solution by integrating features such as expense categorization, budget goal setting, and visual reporting.
 
-## Group Members:
+## Group Member:
 
 - Sophie Nguyen
 
@@ -18,7 +18,7 @@ Welcome to our Personal Finance Manager project repository! This project aims to
 
 ## Project Details
 
-- [**Proposal**]()
+- [**Proposal**](https://drive.google.com/file/d/1ssWM09ldfOKW38XUCYPse-r4Pmfm3GHc/view?usp=sharing)
 - [**APK File**]()
 - [**Slides**]()
 - [**Demo**]()
@@ -39,4 +39,4 @@ For any inquiries or suggestions regarding the Personal Finance Manager project,
 
 - Sophie Nguyen: [sophienguyen113@gmail.com](mailto:sophienguyen113@gmail.com)
 
-Thank you for your interest in our project! We look forward to your contributions and feedback. Happy coding! 🚀
+Thank you for your interest in my project! We look forward to your contributions and feedback. Happy coding! 🚀

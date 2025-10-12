@@ -23,5 +23,5 @@ To maintain the security of the project, we have implemented the following measu
 - Automated testing for security vulnerabilities.
 - Periodic security audits and assessments.
 
-Thank you for helping to keep our project safe and secure!
+Thank you for helping to keep my project safe and secure!
 

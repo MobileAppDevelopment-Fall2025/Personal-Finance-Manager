@@ -29,7 +29,7 @@ If you encounter any bugs or issues while using Personal Finance Manager, please
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to reach out to us via sophienguyen113@gmail.com.
+If you have any questions or need further assistance, feel free to reach out to us via [sophienguyen113@gmail.com](mailto:sophienguyen113@gmail.com).
 
 ## License
 
