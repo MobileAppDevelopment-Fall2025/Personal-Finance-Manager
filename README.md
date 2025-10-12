@@ -1,16 +1,42 @@
-# personal_finance_manager
+# Personal Finance Manager
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+Welcome to our Personal Finance Manager project repository! This project aims to develop a user-friendly mobile application that empowers individuals to efficiently track their expenses and manage their budgets effectively. The Personal Finance Manager provides a comprehensive financial management solution by integrating features such as expense categorization, budget goal setting, and visual reporting.
 
-This project is a starting point for a Flutter application.
+## Group Members:
 
-A few resources to get you started if this is your first Flutter project:
+- Sophie Nguyen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: Dart-based framework for building cross-platform mobile applications.
+- **SQLite**: Local database for data storage on mobile devices.
+- **Flutter Charts**: Library for integrating visual charts into Flutter apps.
+- **Git**: Version control system for collaboration and code management.
+- **Code Editors and IDEs**: Visual Studio Code, Android Studio, Xcode, etc.
+
+## Project Details
+
+- [**Proposal**]()
+- [**APK File**]()
+- [**Slides**]()
+- [**Demo**]()
+
+## Key Features
+
+- **Expense Categorization**: Users can categorize expenses into customizable categories for better organization and analysis.
+- **Budget Goal Setting**: Enable users to set monthly or periodic budget limits for overall spending to promote better financial planning.
+- **Visual Reporting**: Generate insightful visual reports and charts to provide users with a comprehensive overview of their spending habits.
+
+## License
+
+This project is licensed under the [LICENSE]().
+
+## Contact
+
+For any inquiries or suggestions regarding the Personal Finance Manager project, please contact:
+
+- Sophie Nguyen: [sophienguyen113@gmail.com](mailto:sophienguyen113@gmail.com)
+
+Thank you for your interest in our project! We look forward to your contributions and feedback. Happy coding! 🚀
