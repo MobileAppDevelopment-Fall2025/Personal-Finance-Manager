@@ -31,7 +31,7 @@ Welcome to our Personal Finance Manager project repository! This project aims to
 
 ## License
 
-This project is licensed under the [LICENSE]().
+This project is licensed under the [LICENSE](https://github.com/MobileAppDevelopment-Fall2025/Personal-Finance-Manager/blob/main/LICENSE).
 
 ## Contact
 
