@@ -1,5 +1,5 @@
 name: personal_finance_manager
-description: "A new Flutter project."
+description: "A user-friendly mobile app for efficiently tracking expenses and managing budgets. Features include expense categorization, budget goal setting, and visual reporting."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -31,7 +31,12 @@ dependencies:
   flutter:
     sdk: flutter
 
-
+  path_provider: ^2.1.1
+  sqflite: ^2.3.0
+  path: ^1.8.2
+  intl: ^0.17.0
+  charts_flutter: ^0.12.0
+  google_fonts: ^6.2.1
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
